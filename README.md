@@ -104,7 +104,7 @@ The Random Forest Classifier demonstrated **excellent performance**, achieving a
 - It contains all code from data preprocessing, feature engineering, model selection, training, and comprehensive evaluation.
 
 ### Instructions to Run
-1.  **Clone the Repository:** `git clone [Your_Repo_Link]`
+1.  **Clone the Repository:** `git clone https://github.com/eswar3330/USEReady_ESWAR
 2.  **Navigate to Notebook:** Open `Useready_AIML_Assignment_2_Eswar.ipynb` in Google Colab.
 3.  **Upload Data:** In the Colab environment, create a `data` folder at the root.
     * Upload `load_data.csv` into the `data` folder.
